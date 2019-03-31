@@ -135,6 +135,14 @@ button:hover {
 	margin-top: 1.25em;
 }
 
+label[for=exp-month] {
+	clear: left;
+}
+
+.error-message {
+	color: rgb(228, 46, 46);
+}
+
 /* ================================= 
   Helper Classes
 ==================================== */
