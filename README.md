@@ -27,6 +27,6 @@ Scopes:
   - When JavaScript is disabled, all form fields and payment information is displayed, including the "Other" field under the "Job Role" section.
 
 Extra credit:
-	- “Color” drop down menu is hidden until a T-Shirt design is selected.
-	- Form provides at least one error message in real time, before the form is submitted. For example, the error message appears near the email field when the user begins to type, and disappears as soon as the user has entered a complete and correctly formatted email address.
-	- Form provides at least one error message that changes depending on the error. For example, the email field displays a different error message when the email field is empty than it does when the email address is formatted incorrectly. *This is accomplished without the use of HTML5's built-in field validation.
+ - “Color” drop down menu is hidden until a T-Shirt design is selected.
+ - Form provides at least one error message in real time, before the form is submitted. For example, the error message appears near the email field when the user begins to type, and disappears as soon as the user has entered a complete and correctly formatted email address.
+ - Form provides at least one error message that changes depending on the error. For example, the email field displays a different error message when the email field is empty than it does when the email address is formatted incorrectly. *This is accomplished without the use of HTML5's built-in field validation.
